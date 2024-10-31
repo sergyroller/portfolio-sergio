@@ -1,0 +1,33 @@
+---
+const experiences = [
+   {
+      company: "Torbellino Company",
+      dates: "2019 - Presente",
+      work: "Senior Developer",
+      description: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam, quod. Lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam, quod. Lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam, quod.",
+   },
+   {
+      company: "Torbellino Company",
+      dates: "2019 - Presente",
+      work: "Senior Developer",
+      description: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam, quod. Lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam, quod. Lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam, quod.",
+   },
+]
+---
+
+<section>
+   <h2 class="text-xl font-semibold bg-gray-200 py-1 px-3 uppercase">Experiencia Laboral</h2>
+   {experiences.map((experience) => (
+      <div class="flex flex-col md:flex-row md:gap-10 my-5">
+         <div class="text-gray-500 text-xs self-end order-2 md:order-1 md:self-start">
+            <p>{experience.company}</p>
+            <p>{experience.dates}</p>
+         </div>
+         <div class="flex-1 order-1">
+            <h3 class="font-bold">{experience.work}</h3>
+            <p>{experience.description}</p>
+         </div>
+   </div>
+   ))}
+
+</section>
