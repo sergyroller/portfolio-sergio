@@ -1,0 +1,236 @@
+{
+   "basics": {
+     "name": "Sergio Ruiz",
+     "label": "Desarrollador Frontend con experiencia en React y Next.js",
+     "image": "https://randomuser.me/api/portraits/men/1.jpg",
+     "email": "sergio.ruiz.teleco@protonmail.com",
+     "phone": "+34695849062",
+     "url": "https://sergio-ruiz.e.dev",
+     "summary": "Soy un apasionado del desarrollo web con experiencia en proyectos de gran escala que me han permitido adquirir valiosos conocimientos en diversas tecnologías. He trabajado en plataformas funcionales y estéticamente agradables, enfocándome en la usabilidad y la experiencia del usuario. Actualmente, estoy mejorando mis habilidades en el desarrollo frontend.",
+     "location": {
+       "address": "Calle Falsa 123",
+       "postalCode": "12345",
+       "city": "Los Montesinos",
+       "countryCode": "03187",
+       "region": "Alicante"
+     },
+     "profiles": [
+       {
+         "network": "GitHub",
+         "username": "alejandro-dev",
+         "url": "https://github.com/alejandro-dev"
+       },
+       {
+         "network": "LinkedIn",
+         "username": "alejandro-gonzalez",
+         "url": "https://linkedin.com/in/alejandro-gonzalez"
+       },
+       {
+         "network": "X",
+         "username": "alejandro_dev",
+         "url": "https://twitter.com/alejandro_dev"
+       }
+     ]
+   },
+   "work": [
+     {
+       "name": "DesarrolloWeb S.L.",
+       "position": "Desarrollador Frontend",
+       "url": "https://desarrolloweb.com",
+       "startDate": "2019-05-15",
+       "endDate": "2023-08-20",
+       "summary": "Trabajé en el desarrollo de aplicaciones web utilizando tecnologías como React y Angular. Participé en el diseño de la arquitectura frontend y en la implementación de funcionalidades clave.",
+       "highlights": [
+         "Desarrollo de aplicaciones web",
+         "Diseño de arquitectura frontend"
+       ]
+     },
+     {
+       "name": "TechSolutions Inc.",
+       "position": "Pasante Desarrollo Web",
+       "url": "https://techsolutions.com",
+       "startDate": "2018-01-10",
+       "endDate": "2018-06-30",
+       "summary": "Realicé prácticas profesionales en el equipo de desarrollo web. Participé en proyectos de desarrollo frontend y backend utilizando tecnologías como HTML, CSS, JavaScript y Node.js.",
+       "highlights": [
+         "Prácticas profesionales",
+         "Desarrollo frontend y backend"
+       ]
+     }
+   ],
+   "volunteer": [{
+     "organization": "Fundación Ayuda",
+     "position": "Voluntario",
+     "url": "https://fundacionayuda.org/",
+     "startDate": "2017-03-01",
+     "endDate": "2018-02-01",
+     "summary": "Colaboré con la fundación en diversas actividades de ayuda a la comunidad, incluyendo eventos de recaudación de fondos y programas educativos.",
+     "highlights": [
+       "Participación en eventos de recaudación de fondos",
+       "Apoyo en programas educativos"
+     ]
+   }],
+   "education": [{
+     "institution": "Universidad Nacional",
+     "url": "https://universidadnacional.edu",
+     "area": "Ingeniería en Sistemas",
+     "studyType": "Licenciatura",
+     "startDate": "2015-09-01",
+     "endDate": "2020-07-01",
+     "score": "3.8",
+     "courses": [
+       "Programación Avanzada",
+       "Diseño de Sistemas"
+     ]
+   }],
+   "awards": [{
+     "title": "Reconocimiento al Mérito",
+     "date": "2019-12-15",
+     "awarder": "Universidad Nacional",
+     "summary": "Premio otorgado por excelencia académica y contribución a la comunidad estudiantil."
+   }],
+   "certificates": [{
+     "name": "Certificado de Desarrollo Web Avanzado",
+     "date": "2020-08-20",
+     "issuer": "Plataforma de Educación Online",
+     "url": "https://example.com/certificate"
+   }],
+   "publications": [{
+     "name": "Desarrollo de Aplicaciones Web Modernas",
+     "publisher": "Editorial Digital",
+     "releaseDate": "2020-05-30",
+     "url": "https://editorialdigital.com/book",
+     "summary": "Libro que explora las mejores prácticas en el desarrollo de aplicaciones web modernas, con énfasis en tecnologías frontend."
+   }],
+   "skills": [
+     {
+       "name": "HTML",
+       "level": "Avanzado",
+       "keywords": [
+         "HTML5",
+         "Semántica"
+       ]
+     },
+     {
+       "name": "CSS",
+       "level": "Intermedio",
+       "keywords": [
+         "Diseño Responsivo",
+         "Flexbox"
+       ]
+     },
+     {
+       "name": "JavaScript",
+       "level": "Avanzado",
+       "keywords": [
+         "ES6+",
+         "Frameworks"
+       ]
+     },
+     {
+       "name": "React",
+       "level": "Avanzado",
+       "keywords": [
+         "Hooks",
+         "Context API"
+       ]
+     },
+     {
+       "name": "Node.js",
+       "level": "Intermedio",
+       "keywords": [
+         "Express",
+         "RESTful APIs"
+       ]
+     },
+     {
+       "name": "MongoDB",
+       "level": "Intermedio",
+       "keywords": [
+         "NoSQL",
+         "Mongoose"
+       ]
+     },
+     {
+       "name": "Git",
+       "level": "Avanzado",
+       "keywords": [
+         "Control de Versiones",
+         "GitHub"
+       ]
+     }
+   ],
+   "languages": [
+     {
+       "language": "Español",
+       "fluency": "Nativo"
+     },
+     {
+       "language": "Inglés",
+       "fluency": "Avanzado"
+     }
+   ],
+   "interests": [{
+     "name": "Tecnología",
+     "keywords": [
+       "Desarrollo Web",
+       "Tendencias Tecnológicas"
+     ]
+   }],
+   "references": [{
+     "name": "Juan Pérez",
+     "reference": "Referencia..."
+   }],
+   "projects": [
+     {
+       "name": "CodeLab",
+       "isActive": true,
+       "description": "Plataforma interactiva para aprender desarrollo web.",
+       "highlights": [
+         "Tutoriales interactivos",
+         "Comunidad activa"
+       ],
+       "url": "https://codelab.dev"
+     },
+     {
+       "name": "BlogTech",
+       "isActive": true,
+       "description": "Blog sobre las últimas tendencias en tecnología.",
+       "highlights": [
+       "Artículos de calidad",
+       "Actualizaciones semanales"
+       ],
+       "url": "https://blogtech.com"
+       },
+       {
+       "name": "WebWidgets",
+       "isActive": true,
+       "description": "Colección de widgets y componentes web personalizables.",
+       "highlights": [
+       "Widgets modernos",
+       "Facilidad de integración"
+       ],
+       "url": "https://webwidgets.dev"
+       },
+       {
+       "name": "DataVisual",
+       "isActive": true,
+       "description": "Plataforma para la visualización de datos.",
+       "highlights": [
+       "Gráficos interactivos",
+       "Exportación de datos"
+       ],
+       "url": "https://datavisual.com"
+       },
+       {
+       "name": "TechForum",
+       "isActive": true,
+       "description": "Foro de discusión sobre tecnología.",
+       "highlights": [
+       "Comunidad activa",
+       "Soporte técnico"
+       ],
+       "url": "https://techforum.net"
+       }
+       ]
+       }
